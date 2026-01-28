@@ -51,11 +51,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _DissolveAmount: 0.329
-    - _NoiseScale: 148.3
+    - _DissolveAmount: 0
+    - _NoiseScale: 60.89
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _GlowColor: {r: 383.4981, g: 259.8784, b: 0, a: 0}
+    - _GlowColor: {r: 5.992158, g: 4.0606, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
